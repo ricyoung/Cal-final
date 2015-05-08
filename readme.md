@@ -1,5 +1,6 @@
-## Richard Young
-#CS 270 Final Part of Calander 
+# Richard Young
+##CS 270 Final Part of Calander 
+
 
 # Event Calendar - Phase 2
 

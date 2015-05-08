@@ -1,3 +1,6 @@
+## Richard Young
+#CS 270 Final Part of Calander 
+
 # Event Calendar - Phase 2
 
 In this final phase we have two goals:
